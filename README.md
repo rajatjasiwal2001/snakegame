@@ -3,6 +3,12 @@
 A classic **Snake Game** built using pure **HTML, CSS, and JavaScript** — no libraries or frameworks. Play directly in your browser on any device! Guide the snake to eat food, grow longer, and avoid crashing into walls or yourself.
 
 ---
+# Snake Game 🎮
+
+A simple snake game made with HTML, CSS, and JavaScript.
+
+🔗 [Live Demo](https://rajatjasiwal2001.github.io/snakegame/)
+
 
 ## 📖 Description
 
